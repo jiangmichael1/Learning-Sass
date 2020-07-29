@@ -85,6 +85,7 @@
 
     &__heading-span {
         padding: 1rem 1.5rem;
+        box-decoration-break: clone;
         -webkit-box-decoration-break: clone; 
 
         &--1 {
